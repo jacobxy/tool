@@ -1,10 +1,5 @@
 package tool
 
-import (
-	"bytes"
-	"fmt"
-)
-
 type HashSet struct {
 	m map[interface{}]bool
 }
