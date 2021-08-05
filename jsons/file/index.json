@@ -1,0 +1,901 @@
+{
+	"base": {
+		"game": "dota2",
+		"gametime": 2334,
+		"ispaused": false,
+		"match_id": 5506835872,
+		"gamestate": "End",
+		"left_name": 1,
+		"steamtime": 1594384291,
+		"right_name": 2,
+		"start_time": 1594381441,
+		"series_code": 32164004,
+		"stream_delay": 0
+	},
+	"stats": {
+		"exp": [
+			26257,
+			14004,
+			22095,
+			20500,
+			15287,
+			37694,
+			33881,
+			24234,
+			19333,
+			18633
+		],
+		"gold": [
+			278,
+			1486,
+			964,
+			679,
+			2691,
+			3983,
+			2681,
+			1222,
+			952,
+			2401
+		],
+		"xpos": [
+			0,
+			71.6875,
+			0,
+			0,
+			0,
+			77.453125,
+			181.9375,
+			0,
+			79.1484375,
+			79.0546875
+		],
+		"ypos": [
+			0,
+			100.6015625,
+			0,
+			0,
+			0,
+			120.828125,
+			178.5078125,
+			0,
+			117.46875,
+			109.21875
+		],
+		"draft": {
+			"direban": [
+				109,
+				1,
+				51,
+				83,
+				10,
+				47,
+				46
+			],
+			"direpick": [
+				7,
+				3,
+				69,
+				67,
+				22
+			],
+			"radiantban": [
+				20,
+				39,
+				12,
+				89,
+				53,
+				13,
+				106
+			],
+			"active_team": "dire",
+			"radiantpick": [
+				129,
+				110,
+				84,
+				41,
+				23
+			]
+		},
+		"items": {
+			"player0": [
+				172,
+				116,
+				63,
+				158,
+				24,
+				75,
+				0,
+				0,
+				0
+			],
+			"player1": [
+				187,
+				244,
+				188,
+				43,
+				36,
+				214,
+				0,
+				0,
+				0
+			],
+			"player2": [
+				90,
+				178,
+				1,
+				116,
+				36,
+				63,
+				0,
+				359,
+				0
+			],
+			"player3": [
+				50,
+				41,
+				249,
+				73,
+				36,
+				116,
+				0,
+				0,
+				0
+			],
+			"player4": [
+				9,
+				267,
+				40,
+				0,
+				214,
+				244,
+				0,
+				0,
+				0
+			],
+			"player5": [
+				147,
+				223,
+				63,
+				117,
+				137,
+				160,
+				0,
+				0,
+				0
+			],
+			"player6": [
+				48,
+				108,
+				1,
+				232,
+				110,
+				235,
+				0,
+				41,
+				0
+			],
+			"player7": [
+				1,
+				110,
+				50,
+				116,
+				119,
+				0,
+				0,
+				0,
+				0
+			],
+			"player8": [
+				36,
+				254,
+				116,
+				43,
+				40,
+				214,
+				17,
+				0,
+				0
+			],
+			"player9": [
+				152,
+				1,
+				34,
+				40,
+				214,
+				38,
+				0,
+				0,
+				0
+			]
+		},
+		"kills": [
+			8,
+			1,
+			5,
+			5,
+			1,
+			9,
+			10,
+			7,
+			3,
+			4
+		],
+		"level": [
+			24,
+			17,
+			22,
+			21,
+			18,
+			27,
+			26,
+			23,
+			20,
+			20
+		],
+		"xposv": [
+			0,
+			71.6875,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			79.0546875
+		],
+		"yposv": [
+			0,
+			100.6015625,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			109.21875
+		],
+		"deaths": [
+			6,
+			5,
+			6,
+			10,
+			8,
+			3,
+			1,
+			4,
+			4,
+			9
+		],
+		"denies": [
+			15,
+			2,
+			15,
+			9,
+			5,
+			7,
+			7,
+			3,
+			0,
+			2
+		],
+		"account": [
+			137193239,
+			143693439,
+			139937922,
+			107803494,
+			138543123,
+			898754153,
+			137129583,
+			156662698,
+			107081378,
+			163587550
+		],
+		"assists": [
+			9,
+			16,
+			4,
+			6,
+			8,
+			19,
+			20,
+			23,
+			18,
+			15
+		],
+		"expleft": [
+			962,
+			1024,
+			1250,
+			1505,
+			982,
+			1799,
+			2486,
+			1289,
+			1938,
+			1238
+		],
+		"message": [
+			{
+				"killer": 3,
+				"victim": 23,
+				"gametime": 227,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 129,
+				"victim": 67,
+				"gametime": 410,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 69,
+				"victim": 41,
+				"gametime": 433,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": -1,
+				"victim": 7,
+				"gametime": 433,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 67,
+				"victim": 84,
+				"gametime": 439,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": -1,
+				"victim": 23,
+				"gametime": 448,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": -1,
+				"victim": 110,
+				"gametime": 593,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 69,
+				"victim": 23,
+				"gametime": 604,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 41,
+				"victim": 7,
+				"gametime": 626,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 23,
+				"victim": 22,
+				"gametime": 651,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": "Radiant",
+				"victim": "dota_badguys_tower1_top",
+				"gametime": 742,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": true
+			},
+			{
+				"killer": 67,
+				"victim": 129,
+				"gametime": 757,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 22,
+				"victim": 110,
+				"gametime": 771,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 41,
+				"victim": 7,
+				"gametime": 773,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 41,
+				"victim": 69,
+				"gametime": 788,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 23,
+				"victim": 3,
+				"gametime": 796,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 41,
+				"victim": 69,
+				"gametime": 867,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": "Radiant",
+				"victim": "dota_badguys_tower1_mid",
+				"gametime": 881,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": true
+			},
+			{
+				"killer": 69,
+				"victim": 110,
+				"gametime": 924,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": "Dire",
+				"victim": "dota_goodguys_tower1_bot",
+				"gametime": 955,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": false
+			},
+			{
+				"killer": 41,
+				"victim": 7,
+				"gametime": 975,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 23,
+				"victim": 67,
+				"gametime": 1049,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": "Radiant",
+				"victim": "dota_badguys_tower2_top",
+				"gametime": 1081,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": true
+			},
+			{
+				"killer": 22,
+				"victim": 23,
+				"gametime": 1101,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 129,
+				"victim": 7,
+				"gametime": 1154,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": "Radiant",
+				"victim": "dota_badguys_tower1_bot",
+				"gametime": 1188,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": true
+			},
+			{
+				"killer": 22,
+				"victim": 23,
+				"gametime": 1240,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 110,
+				"victim": 3,
+				"gametime": 1250,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 67,
+				"victim": 110,
+				"gametime": 1252,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 7,
+				"victim": 129,
+				"gametime": 1261,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 84,
+				"victim": 67,
+				"gametime": 1269,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 41,
+				"victim": "Aegis",
+				"gametime": 1347,
+				"eventtype": "AegisGet",
+				"iskillerleft": true
+			},
+			{
+				"killer": 41,
+				"victim": 3,
+				"gametime": 1369,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": "Radiant",
+				"victim": "dota_badguys_tower2_mid",
+				"gametime": 1408,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": true
+			},
+			{
+				"killer": 129,
+				"victim": 7,
+				"gametime": 1439,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 67,
+				"victim": 110,
+				"gametime": 1490,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 7,
+				"victim": 129,
+				"gametime": 1493,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 7,
+				"victim": 84,
+				"gametime": 1496,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 3,
+				"victim": 23,
+				"gametime": 1500,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 23,
+				"victim": 7,
+				"gametime": 1503,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 67,
+				"victim": 41,
+				"gametime": 1520,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": "Dire",
+				"victim": "dota_goodguys_tower1_mid",
+				"gametime": 1592,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": false
+			},
+			{
+				"killer": 41,
+				"victim": 7,
+				"gametime": 1631,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 69,
+				"victim": 41,
+				"gametime": 1721,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 129,
+				"victim": 7,
+				"gametime": 1744,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 41,
+				"victim": 3,
+				"gametime": 1760,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 22,
+				"victim": 23,
+				"gametime": 1803,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 22,
+				"victim": 110,
+				"gametime": 2018,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 69,
+				"victim": 129,
+				"gametime": 2048,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 67,
+				"victim": 84,
+				"gametime": 2052,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 23,
+				"victim": 69,
+				"gametime": 2068,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 7,
+				"victim": 41,
+				"gametime": 2069,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 67,
+				"victim": 84,
+				"gametime": 2070,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 3,
+				"victim": 23,
+				"gametime": 2079,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 22,
+				"victim": 110,
+				"gametime": 2082,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 67,
+				"victim": "Aegis",
+				"gametime": 2112,
+				"eventtype": "AegisGet",
+				"iskillerleft": false
+			},
+			{
+				"killer": "Dire",
+				"victim": "dota_goodguys_tower1_top",
+				"gametime": 2163,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": false
+			},
+			{
+				"killer": 69,
+				"victim": 84,
+				"gametime": 2194,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 67,
+				"victim": 23,
+				"gametime": 2207,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": "Dire",
+				"victim": "dota_goodguys_tower2_mid",
+				"gametime": 2238,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": false
+			},
+			{
+				"killer": 22,
+				"victim": 41,
+				"gametime": 2289,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 69,
+				"victim": 129,
+				"gametime": 2291,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 67,
+				"victim": 110,
+				"gametime": 2293,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 129,
+				"victim": 69,
+				"gametime": 2321,
+				"eventtype": "HeroKill",
+				"iskillerleft": true
+			},
+			{
+				"killer": 22,
+				"victim": 41,
+				"gametime": 2322,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 22,
+				"victim": 129,
+				"gametime": 2325,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": 22,
+				"victim": 23,
+				"gametime": 2329,
+				"eventtype": "HeroKill",
+				"iskillerleft": false
+			},
+			{
+				"killer": "Dire",
+				"victim": "dota_goodguys_tower2_top",
+				"gametime": 2334,
+				"eventtype": "TowerDistoryed",
+				"iskillerleft": false
+			}
+		],
+		"direkill": 35,
+		"gametime": 2334,
+		"lasthits": [
+			307,
+			55,
+			249,
+			257,
+			131,
+			334,
+			356,
+			198,
+			25,
+			52
+		],
+		"networth": [
+			15753,
+			4351,
+			13354,
+			14004,
+			8376,
+			22873,
+			24621,
+			18962,
+			8972,
+			8996
+		],
+		"diredeath": 21,
+		"direheros": [
+			67,
+			22,
+			69,
+			3,
+			7
+		],
+		"kill_diff": -13,
+		"leftscore": 21,
+		"diretowers": 1956,
+		"playername": [
+			"Eurus",
+			"Dy",
+			"Yang",
+			"Ori",
+			"Pyw",
+			"萧瑟",
+			"Xm",
+			"Srf",
+			"黑凤梨",
+			"James"
+		],
+		"rightscore": 35,
+		"direassists": 95,
+		"direbarrack": 63,
+		"radiantkill": 21,
+		"respawntime": [
+			107,
+			0,
+			100,
+			74,
+			23,
+			0,
+			0,
+			76,
+			0,
+			0
+		],
+		"roshanstate": "respawn_base",
+		"radiantdeath": 35,
+		"radiantheros": [
+			41,
+			84,
+			129,
+			23,
+			110
+		],
+		"networth_diff": -28586,
+		"radianttowers": 1956,
+		"health_percent": [
+			0,
+			34,
+			0,
+			0,
+			0,
+			100,
+			100,
+			0,
+			90,
+			76
+		],
+		"radiantassists": 43,
+		"radiantbarrack": 63,
+		"buybackcooldown": [
+			441,
+			198,
+			441,
+			0,
+			182,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"roshanstate_end_seconds": 256
+	}
+}
